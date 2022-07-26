@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About page on Turbo Eureka</title>
-    <link>https://turbo-eureka.github.io/turbo-eureka/about/</link>
+    <link>https://ethan-moss.github.io/turbo-eureka/about/</link>
     <description>Recent content in About page on Turbo Eureka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://turbo-eureka.github.io/turbo-eureka/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ethan-moss.github.io/turbo-eureka/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
