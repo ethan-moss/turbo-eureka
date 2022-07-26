@@ -1,0 +1,35 @@
+baseURL: https://turbo-eureka.github.io/turbo-eureka
+languageCode: en-gb
+title: Turbo Eureka
+theme: govukhugo
+publishDir: docs
+canonifyurls: true
+
+pygmentsUseClasses: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    noClasses: true
+    style: github
+    tabWidth: 2
+
+
+params:
+  govuk: false
+  logo: none
+  product: Turbo Eureka
+  phase: alpha
+  feedbackurl: https://your.site/feedback
+  builtby: The Office for National Statistics Data Science Campus
+  builtbyurl: https://datasciencecampus.ons.gov.uk/
